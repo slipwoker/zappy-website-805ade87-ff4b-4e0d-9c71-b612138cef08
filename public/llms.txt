@@ -1,0 +1,55 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+ייעוץ אסטרטגי ערים חכמות שמניע שינוי אמיתי: רשויות מקומיות, אשכולות אזוריים וחברות טק מוצאים כאן את הגשר בין עולמות. גלו כיצד ניסיון מעשי עמוק הופך לתוצאות בשטח.
+
+### ייעוץ למגזר הציבורי
+https://example.com/public-sector-advisory
+ייעוץ לרשויות מקומיות טכנולוגיה שמבוסס על עבודה ישירה עם משרדי ממשלה ואשכולות אזוריים. לא תיאוריה — תכנון, הטמעה ותוצאות מדידות לכל גוף ציבורי שרוצה להוביל.
+
+### פיתוח עסקי לחברות טכנולוגיה
+https://example.com/business-development
+פיתוח עסקי לחברות טכנולוגיה שרוצות להיכנס לשוק הציבורי: הבנת כללי המשחק, בניית אסטרטגיית חדירה ויצירת קשרים אמיתיים עם מקבלי החלטות. מהכרת שני הצדדים — לתוצאה.
+
+### הרצאות והעברת ידע
+https://example.com/lectures
+הרצאות עיר חכמה מגזר ציבורי שמביאות ניסיון שטח אמיתי לאולם: לרשויות, לכנסים ולחברות טכנולוגיה. תוכן עמוק, ישיר ומעורר מחשבה שמוביל לדיון ולפעולה. הזמינו הרצאה עכשיו.
+
+### אודות וניסיון
+https://example.com/about
+רן גולדשטיין הוא יועץ בכיר ומרצה עם ניסיון מעשי עמוק בערים חכמות, ייעוץ אסטרטגי ערים חכמות ופיתוח עסקי. הכירו את הדרך, הפרויקטים והפילוסופיה שמניעים תוצאות אמיתיות.
+
+### צור קשר
+https://example.com/contact
+רשות מקומית, אשכול אזורי או חברת טכנולוגיה שמחפשת ייעוץ לרשויות מקומיות טכנולוגיה? השאירו פרטים ורן גולדשטיין יחזור אליכם לשיחת היכרות ממוקדת ומחייבת. הצעד הראשון מתחיל כאן.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
